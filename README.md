@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am a Full Stack Web Developer with a unique background in Communications, Writing and a dedication to Learning. I specialize in the MERN Stack (MongoDB, Express, ReactJS, and Node.js) and am proficient in other technologies such as HTML5, CSS3, Javascript, JQuery, Bootstrap, Firebase and more.
+I am a Full Stack Web Developer with a unique background in Communications, Writing and a dedication to Learning. I specialize in the MERN Stack (MongoDB, Express, ReactJS, and Node.js) and am proficient in other technologies such as HTML5, CSS3, Javascript, JQuery, Bootstrap and more.
 
 I am known for my ability to combine technical skills with unique designs to create user-friendly applications. I am also recognized for my presentation skills and my ability to clearly communicate ideas with unmatched enthusiasm.
 
