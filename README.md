@@ -1,5 +1,4 @@
-### Hi there 👋
-
+### Hi there 👋 Thank you for visiting my profile!
 <!--
 **ZacharyJohn1/ZacharyJohn1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -20,5 +19,4 @@ I recently completed a 12-week intensive program where I gained valuable technic
 
 Take a look at my projects and feel free to reach out if you have any questions or if you're interested in working together.
 
-Thank you for visiting my profile!
 [![GitHub Streak](https://streak-stats.demolab.com/?user=ZacharyJohn1)](https://git.io/streak-stats)
