@@ -1,4 +1,4 @@
-### Hi there 👋 Thank you for visiting my profile!
+### Hi there 👋
 <!--
 **ZacharyJohn1/ZacharyJohn1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
