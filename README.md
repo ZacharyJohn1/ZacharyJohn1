@@ -16,3 +16,7 @@ Here are some ideas to get you started:
 I am a Full Stack Web Developer with a unique background in communications, writing and a dedication to learning. I specialize in the MERN Stack (MongoDB, Express, ReactJS, and Node.js) and am proficient in other technologies such as HTML5, CSS3, Javascript, JQuery, Bootstrap and more. Currently learning NextJS, Tailwind, and Typescript in my newest project!
 
 Take a look at my projects and feel free to reach out if you have any questions or if you're interested in working together.
+
+<p align="center">
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ZacharyJohn1&theme=neon-dark)](https://git.io/streak-stats)
+</p>
