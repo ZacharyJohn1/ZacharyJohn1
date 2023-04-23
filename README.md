@@ -15,7 +15,5 @@ Here are some ideas to get you started:
 -->
 I am a Full Stack Web Developer with a unique background in communications, writing and a dedication to learning. I specialize in the MERN Stack (MongoDB, Express, ReactJS, and Node.js) and am proficient in other technologies such as HTML5, CSS3, Javascript, JQuery, Bootstrap and more. Currently learning NextJS, Tailwind, and Typescript in my newest project!
 
-I recently completed a 12-week intensive program where I gained valuable technical programming skills. I am excited to put my new skills to use and continue to grow as a developer.
-
 Take a look at my projects and feel free to reach out if you have any questions or if you're interested in working together.
 
