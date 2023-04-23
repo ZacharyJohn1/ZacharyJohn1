@@ -5,6 +5,7 @@
   <br />
 
 <h3 align="center">
+  <div class="tenor-gif-embed" data-postid="4622525" data-share-method="host" data-aspect-ratio="1.095" data-width="100%"><a href="https://tenor.com/view/skeleton-trumpet-gif-4622525">Skeleton Trumpet GIF</a>from <a href="https://tenor.com/search/skeleton-gifs">Skeleton GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 <a href="https://zacharyjohn1.github.io/ReactPortfolio/">Visit my personal homepage
 <img src="https://github.com/fnky/fnky/raw/fnky/img/website.gif" alt="Visit homepage" align="center">
 </a>
