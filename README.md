@@ -14,8 +14,7 @@
   <br />
   <br />
 Take a look at my projects and feel free to reach out if you have any questions or if you're interested in working together.
-<div align="center">
-<p>Have a good day!</p>
+
 
 </div>
    <br />
@@ -26,5 +25,7 @@ Take a look at my projects and feel free to reach out if you have any questions 
     <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=ZacharyJohn1&theme=neon-dark"/></a>
 </p>
 <div>
+  <div align="center">
+<p>Have a good day!</p>
 <img src="https://github.com/fnky/fnky/raw/fnky/img/smile.gif" alt="Smiley" align="center">
 </div>
