@@ -18,3 +18,8 @@ Take a look at my projects and feel free to reach out if you have any questions 
 <p align="center">
     <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=ZacharyJohn1&theme=neon-dark"/></a>
 </p>
+<h3 align="center">
+<a href="https://zacharyjohn1.github.io/ReactPortfolio/">Visit my personal homepage
+<img src="https://github.com/fnky/fnky/raw/fnky/img/website.gif" alt="Visit homepage" align="center">
+</a>
+</h3>
