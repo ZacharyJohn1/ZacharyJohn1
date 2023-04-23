@@ -20,3 +20,6 @@ Take a look at my projects and feel free to reach out if you have any questions 
 <img src="https://github.com/fnky/fnky/raw/fnky/img/smile.gif" alt="Smiley" align="center">
 </div>
 </div>
+<p align="center">
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=ZacharyJohn1&theme=neon-dark"/></a>
+</p>
