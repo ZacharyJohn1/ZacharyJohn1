@@ -13,9 +13,6 @@
 <div>
   <br />
   <br />
-Take a look at my projects and feel free to reach out if you have any questions or if you're interested in working together.
-
-
 </div>
    <br />
   <br />
