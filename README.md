@@ -7,6 +7,8 @@
 <img src="https://github.com/fnky/fnky/raw/fnky/img/website.gif" alt="Visit homepage" align="center">
 </a>
 </h3>
+<img src="https://media.tenor.com/1Y9-Zd6YSGoAAAAC/doot-spooky.gif" alt="doot">
+
   <br />
   <br />
 Take a look at my projects and feel free to reach out if you have any questions or if you're interested in working together.
