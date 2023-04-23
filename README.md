@@ -3,6 +3,7 @@
   <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
   <br />
   <br />
+ <img src="https://media.tenor.com/xXMKqzQrpJ0AAAAd/skeleton-trumpet.gif" alt="Visit homepage"> 
 <a href="https://zacharyjohn1.github.io/ReactPortfolio/">Visit my personal homepage
 <img src="https://github.com/fnky/fnky/raw/fnky/img/website.gif" alt="Visit homepage" align="center">
 </a>
