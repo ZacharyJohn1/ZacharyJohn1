@@ -18,3 +18,6 @@ I am a Full Stack Web Developer with a unique background in communications, writ
 Take a look at my projects and feel free to reach out if you have any questions or if you're interested in working together.
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=ZacharyJohn1&theme=neon-dark)](https://git.io/streak-stats)
+<p align="center">
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=ZacharyJohn1&theme=neon-dark"/></a>
+</p>
