@@ -16,11 +16,6 @@
 </div>
    <br />
   <br />
-<img src="https://cdn.discordapp.com/attachments/1063880475472580762/1099732053718736896/coollogo_com-4194216.gif" alt="firestats" align="center">
-
-<p align="center">
-    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=ZacharyJohn1&theme=neon-dark"/></a>
-</p>
 <div>
   <div align="center">
 <p>Enjoy your day!</p>
