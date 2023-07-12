@@ -10,14 +10,3 @@
 </a>
 </h3>
 <img src="https://media.tenor.com/1Y9-Zd6YSGoAAAAC/doot-spooky.gif" alt="doot" style="width: 200px; height: 200px;">
-<div>
-  <br />
-  <br />
-</div>
-   <br />
-  <br />
-<div>
-  <div align="center">
-<p>Enjoy your day!</p>
-<img src="https://github.com/fnky/fnky/raw/fnky/img/smile.gif" alt="Smiley" align="center">
-</div>
